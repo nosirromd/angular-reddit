@@ -1,3 +1,7 @@
+My second Angular app after the hello world app.
+Created by following the ng-book2-book-angular-8-r74 book chapter Writing Your First Angular Web Application step by step
+
+
 # AngularReddit
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.2.
